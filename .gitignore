@@ -1,0 +1,39 @@
+# Ignorowanie folderu wirtualnego środowiska (np. `venv`, `.venv`, `env` itp.)
+venv/
+.env/
+env/
+
+# Ignorowanie plików systemowych PyCharm
+.idea/
+
+# Pliki cache'owania Pythona
+__pycache__/
+*.py[cod]
+
+# Pliki Jupyter Notebook z checkpointami
+.ipynb_checkpoints/
+
+# Pliki logów i innych tymczasowych plików
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignorowanie plików konfiguracyjnych i wynikowych
+*.ini
+*.out
+*.pid
+*.dat
+*.pkl
+
+# Pliki Jupyter Notebook Metadata
+*.ipynb-meta
+
+# Ignorowanie plików binarnych
+*.so
+*.dll
+*.dylib
+
+# Pliki środowisk wirtualnych conda
+*.env/
+*.venv/
