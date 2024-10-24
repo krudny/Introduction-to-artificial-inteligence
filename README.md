@@ -3,7 +3,7 @@ This repository contains code developed during the Introduction to Artificial In
 
 ## Covered topics
 
-- [Lab1](https://github.com/krudny/Image-processing/tree/main/Lab1-linear-regression) - linear and logistic regression
+- [Lab1](https://github.com/krudny/Introduction-to-artificial-intelligence/tree/main/Lab1-linear-regression) - linear and logistic regression
 
 ## Technologies
 
