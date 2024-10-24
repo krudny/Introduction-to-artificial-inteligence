@@ -1,2 +1,16 @@
 # Introduction-to-artificial-inteligence
 This repository contains code developed during the Introduction to Artificial Intelligence course at AGH University of Science and Technology
+
+## Covered topics
+
+- [Lab1](https://github.com/krudny/Image-processing/tree/main/Lab1-linear-regression) - linear and logistic regression
+
+## Technologies
+
+- Programming language: *Python*
+- Libraries: *SciKit-learn*, *Pandas*, *numpy*, *matplotlib*
+- Development environment: *Pycharm*, *Jupyter Notebook*
+
+## Authors
+
+- Kamil Rudny [krudny](https://github.com/krudny)
