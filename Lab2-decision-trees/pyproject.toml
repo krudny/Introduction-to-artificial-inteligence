@@ -12,6 +12,7 @@ pandas = "^2.2.3"
 scipy = "^1.14.1"
 missingno = "^0.5.2"
 scikit-learn = "^1.5.2"
+imblearn = "^0.0"
 
 
 [build-system]
