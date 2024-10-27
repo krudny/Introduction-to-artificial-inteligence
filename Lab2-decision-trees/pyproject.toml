@@ -7,6 +7,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+scipy = "^1.14.1"
+missingno = "^0.5.2"
+scikit-learn = "^1.5.2"
 
 
 [build-system]
